@@ -11,7 +11,7 @@ const PaymentModes = ( { input, handleOnChange } ) => {
 			<div className="form-check woo-next-payment-input-container mt-2">
 				<label className="form-check-label">
 					<input onChange={ handleOnChange } value="bacs" className="form-check-input mr-3" name="paymentMethod" type="radio" checked={'bacs' === paymentMethod}/>
-					<span className="woo-next-payment-content">Direct Bank Transfer</span>
+					<span className="woo-next-payment-content">Direct Bank Transfer </span>
 				</label>
 			</div>
 			{/*Pay with Paypal*/}

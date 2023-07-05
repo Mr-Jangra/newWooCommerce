@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [WooCommerce Nextjs React Theme](https://woo-next-imranhsayed.vercel.app/) :rocket:
 [![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![Stars](https://img.shields.io/github/stars/imranhsayed/woo-next?label=%E2%AD%90%20Stars)
@@ -120,3 +121,6 @@ I use [Git](https://github.com/) for versioning.
 ## License :page_with_curl:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+=======
+# newWooCommerce
+>>>>>>> 938e4f39961c8a5466c8bc0d2ad420cf29766942

@@ -5,7 +5,7 @@ import CartItemsContainer from "../src/components/cart/cart-page/CartItemsContai
 const Cart = () => {
 	return (
 		<Layout>
-			<CartItemsContainer />
+			<CartItemsContainer/>
 		</Layout>
 	)
 };
